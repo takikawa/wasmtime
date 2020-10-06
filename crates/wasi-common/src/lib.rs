@@ -21,6 +21,7 @@
     )
 )]
 
+pub mod clock;
 mod ctx;
 mod entry;
 mod error;
